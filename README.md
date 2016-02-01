@@ -6,9 +6,9 @@
 
 **Pre-requisites for this class**
 
-1.	**Install R** - http://www.r-project.org/
+1.	[**Install R**] - (http://www.r-project.org/)
 
-2.	**Install RStudio** - http://www.rstudio.com/products/rstudio/download/
+2.	[**Install RStudio**] - (http://www.rstudio.com/products/rstudio/download/)
 
 **Topics Covered**
 
