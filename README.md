@@ -1,16 +1,16 @@
-BECOMING 0 TO 1 IN R
+**BECOMING 0 TO 1 IN R**
 
-SESSION OUTLINE :-
+#**SESSION OUTLINE** :-
 
-Session 1:Introduction to R and RStudio
+##**Session 1:Introduction to R and RStudio**
 
-Pre-requisites for this class
+**Pre-requisites for this class**
 
-1.	Install R - http://www.r-project.org/
+1.	**Install R** - http://www.r-project.org/
 
-2.	Install RStudio - http://www.rstudio.com/products/rstudio/download/
+2.	**Install RStudio** - http://www.rstudio.com/products/rstudio/download/
 
-Topics Covered
+**Topics Covered**
 
 •	RStudio IDE features
 
@@ -22,17 +22,17 @@ Topics Covered
 
 •	Installing and Loading packages
 
-Session 2: Graphics and Visualization in R
+##**Session 2: Graphics and Visualization in R**
 
-Topics Covered
+**Topics Covered**
 
 •	Base plotting
 
 •	ggplot2
 
-Session 3: Data Structures in R
+##**Session 3: Data Structures in R**
 
-Topics Covered
+**Topics Covered**
 
 •	Data Structures: Vectors, Lists, Matrices, Data frames
 
@@ -46,9 +46,9 @@ Topics Covered
 
 •	Type casting and coercion
 
-Session 4: Data Munging in R - Part I
+##**Session 4: Data Munging in R - Part I**
 
-Topics Covered
+**Topics Covered**
 
 •	readxl
 
@@ -58,15 +58,15 @@ Topics Covered
 
 •	tidyr
 
-Session 5: Data Munging in R - Part II
+##**Session 5: Data Munging in R - Part II**
 
-Topics Covered
+**Topics Covered**
 
 •	dplyr
 
-Session 6: Functions and apply family
+##**Session 6: Functions and apply family**
 
-Topics Covered
+**Topics Covered**
 
 •	Function syntax
 
@@ -74,9 +74,9 @@ Topics Covered
 
 •	apply family of functions
 
-Session 7: Reporting and Business App Development
+##**Session 7: Reporting and Business App Development**
 
-Topics Covered
+**Topics Covered**
 
 •	Working with RMarkdown
 
