@@ -58,7 +58,7 @@
 
 •	tidyr
 
-### [Session 5: Data Munging in R - Part II](Data Munging in R - Part II.docs)
+### [Session 5: Data Munging in R - Part II](./Data Munging in R - Part II.docs)
 
 **Topics Covered**
 
