@@ -22,7 +22,7 @@
 
 •	Installing and Loading packages
 
-### [Session 2: Graphics and Visualization in R](./sessions/w2/)
+### [Session 2: Graphics and Visualization in R](./becomming/0/to/1/in/R_/1/)
 
 **Topics Covered**
 
