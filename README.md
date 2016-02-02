@@ -2,7 +2,7 @@
 
 #**SESSION OUTLINE** :-
 
-##**Session 1:Introduction to R and RStudio**
+### [Session 1: Introduction to R and RStudio](./sessions/w1/)
 
 **Pre-requisites for this class**
 
@@ -22,7 +22,7 @@
 
 •	Installing and Loading packages
 
-##**Session 2: Graphics and Visualization in R**
+### [Session 2: Graphics and Visualization in R](./sessions/w2/)
 
 **Topics Covered**
 
@@ -30,7 +30,7 @@
 
 •	ggplot2
 
-##**Session 3: Data Structures in R**
+### [Session 3: Data Structures in R](./sessions/w3/)
 
 **Topics Covered**
 
@@ -46,7 +46,7 @@
 
 •	Type casting and coercion
 
-##**Session 4: Data Munging in R - Part I**
+### [Session 4: Data Munging in R - Part I](./sessions/w4/)
 
 **Topics Covered**
 
@@ -58,13 +58,13 @@
 
 •	tidyr
 
-##**Session 5: Data Munging in R - Part II**
+### [Session 5: Data Munging in R - Part II](./sessions/w5/)
 
 **Topics Covered**
 
 •	dplyr
 
-##**Session 6: Functions and apply family**
+### [Session 6:  Functions and ```apply``` family](./sessions/w6/)
 
 **Topics Covered**
 
@@ -74,12 +74,13 @@
 
 •	apply family of functions
 
-##**Session 7: Reporting and Business App Development**
+### [Session 7: Reporting and Business App Development](./sessions/w7/)
 
 **Topics Covered**
 
 •	Working with RMarkdown
 
 •	Shiny
+
 
 
