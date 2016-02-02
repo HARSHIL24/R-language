@@ -46,7 +46,7 @@
 
 •	Type casting and coercion
 
-### [Session 4: Data Munging in R - Part I](./sessions/w4/)
+### [Session 4: Data Munging in R - Part I](./Data /Munging /in// R/ -/ Part /2.docx/)
 
 **Topics Covered**
 
